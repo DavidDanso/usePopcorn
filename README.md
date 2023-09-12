@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+# UsePopcorn App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+UsePopcorn is a dynamic React application that effortlessly retrieves and showcases movie data. With its user-friendly interface, you can easily search for your favorite films, rate them, and even remove them from your list.
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Ensure you have Node.js and Yarn installed on your computer. If not, you can download Node.js [here](https://nodejs.org)
+and Yarn [here](https://yarnpkg.com/lang/en/docs/install/).
 
-### `npm test`
+### Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Fork and clone this repository to your machine
 
-### `npm run build`
+    ```
+    git clone https://github.com/DavidDanso/usePopcorn.git
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Access the project folder
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    ```
+    cd usePopcorn
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install the project dependencies
 
-### `npm run eject`
+    ```
+    npm install
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. Start the app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ```
+    npm start
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Your app should now be running on `http://localhost:3000`.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## App Preview:
 
-## Learn More
+<table width="100%"> 
+  <tr>
+    <td width="50%">      
+    &nbsp; 
+    <br>
+    <p align="center">
+      Main Feed
+    </p>
+    <img src="https://github.com/DavidDanso/usePopcorn/blob/main/public/UI/home-feed.png" />
+    </td> 
+    <td width="50%">
+    <br>
+    <p align="center">
+      Movie Search Data
+    </p>
+    <img src="https://github.com/DavidDanso/usePopcorn/blob/main/public/UI/movie-data.png" />
+    </td>
+  </tr>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  <tr>
+    <td width="50%">      
+    &nbsp; 
+    <br>
+    <p align="center">
+      Star Rating
+    </p>
+    <img src="https://github.com/DavidDanso/usePopcorn/blob/main/public/UI/star-rating.png" />
+    </td> 
+    <td width="50%">
+    <br>
+    <p align="center">
+      Movie Watched List
+    </p>
+    <img src="https://github.com/DavidDanso/usePopcorn/blob/main/public/UI/watched-list.png" />
+    </td>
+  </tr>
+</table>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+Detailed usage description go here.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact
 
-### Analyzing the Bundle Size
+DavidDanso - davidkellybrownson@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/DavidDanso/usePopcorn.git](https://github.com/DavidDanso/usePopcorn.git)
